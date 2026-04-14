@@ -1,126 +1,90 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Dani%20Lopez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Backend&descAlignY=55&descSize=18" />
+
 </div>
 
 <h1 align="center">Hi, I'm Dani 👋</h1>
 
-<h3 align="center">🐍 Python Developer · 📊 Data & AI Enthusiast · ⚙️ Backend Learner</h3>
+<h3 align="center">📊 Data Science Student · 🐍 Python Developer · 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=🐍+Python+Developer;📊+Data+Analysis+%26+Machine+Learning;⚙️+Backend+with+Django;🚀+Building+useful+and+scalable+projects;🌱+Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+data+into+useful+insights+%F0%9F%93%88;Building+projects+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+and+Backend+%F0%9F%A4%96;Always+improving%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniilopezz&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=daniilopezz&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-## 🙋 About Me
+## 🧠 About Me
 
-I’m Dani, a student focused on **data analysis**, **Python programming**, and **backend development**.  
-I enjoy building projects that mix **logic, automation, data, and real-world usefulness**.
+I’m Dani, a student focused on **data analysis**, **Python programming**, **machine learning**, and **backend development**.
 
-- 🐍 Python and problem solving  
-- 📊 Data analysis and machine learning  
-- ⚙️ Backend development with Django  
-- 🧼 Clean, scalable, and practical projects  
-- 🌱 Continuous learning and improving every day  
+I enjoy creating projects that combine **logic**, **automation**, **clean code**, and **real-world usefulness**.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+- 📊 Passionate about data analysis and visualization  
+- 🐍 Strong interest in Python and practical programming  
+- 🤖 Learning machine learning and anomaly detection  
+- ⚙️ Exploring backend development with Django  
+- 🚀 Building a portfolio with useful and scalable projects  
 
 ---
 
-## 🚀 Currently Working On
-
-- 📊 Data analysis projects with Python  
-- 🤖 Machine learning fundamentals  
-- ⚙️ Backend apps with Django  
-- 🧩 Improving my GitHub portfolio with real projects  
-
----
-
-## 📈 GitHub Stats
+## ⚡ Tech Stack
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=daniilopezz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+### 🖥️ Languages
+<img src="https://skillicons.dev/icons?i=python,html,css,postgresql,mysql" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilopezz&layout=compact&theme=radical&hide_border=true" height="170" />
+### 📚 Data / AI
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-</div>
+### ⚙️ Backend / Tools
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,pycharm" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=daniilopezz&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-Here are some of the areas I’m building projects around:
-
-- 📊 Data analysis with Python  
-- 🤖 Machine learning and anomaly detection  
-- ⚙️ Backend development with Django  
-- 🛠️ Automation scripts and useful tools  
-
----
-
-## 🎯 Goals
-
-- 🚀 Keep improving as a **Python developer**  
-- 🧱 Build strong projects for my portfolio  
-- 📚 Grow in **data analysis** and **machine learning**  
-- 💡 Combine technical skills with practical problem solving  
-
----
-
-## 📬 Contact
+## 📈 Data Science Mindset
 
 <div align="center">
-  <a href="mailto:lopezaguirrecoc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/daniilopezz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+| 💡 Area | 🔍 Focus |
+|---|---|
+| Data Analysis | Cleaning, transformation, exploration |
+| Machine Learning | Patterns, anomalies, predictions |
+| Backend | Logic, structure, scalability |
+| Development | Clean code, automation, problem solving |
+
 </div>
 
 ---
 
-<div align="center">
-  <i>✨ Keep building, keep learning, keep growing ✨</i>
-</div>
+## 🚀 Current Focus
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-</div>
+```python
+class Dani:
+    def __init__(self):
+        self.role = "Data Science Student"
+        self.languages = ["Python", "SQL", "HTML", "CSS"]
+        self.interests = [
+            "Data Analysis",
+            "Machine Learning",
+            "Backend Development",
+            "Automation"
+        ]
+        self.current_goal = "Build strong real-world projects for my portfolio"
+
+    def __str__(self):
+        return f"{self.role} | Focused on {', '.join(self.interests)}"
+
+me = Dani()
+print(me)
