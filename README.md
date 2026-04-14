@@ -72,14 +72,14 @@ I enjoy building projects that mix **logic, automation, data, and real-world use
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniilopezz&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniilopezz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilopezz&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilopezz&layout=compact&theme=radical&hide_border=true" height="170" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=daniilopezz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=daniilopezz&theme=radical&hide_border=true" />
 </div>
 
 ---
